@@ -1,9 +1,9 @@
 import React from 'react'
 import './portifolio.css'
-import IMG1 from '../../assets/portfolio1.jpg'
-import IMG2 from '../../assets/portfolio2.jpg'
-import IMG3 from '../../assets/portfolio3.jpg'
-import IMG4 from '../../assets/portfolio4.jpg'
+import IMG1 from '../../assets/diginity.png'
+import IMG2 from '../../assets/firrki.png'
+import IMG3 from '../../assets/Social.png'
+import IMG4 from '../../assets/Om log.png'
 import IMG5 from '../../assets/portfolio5.jpg'
 import IMG6 from '../../assets/portfolio6.jpg'
 
@@ -13,30 +13,30 @@ const data = [
 {
   id: 1,
   image: IMG1,
-  title: 'Brodsport - Sport Streaming Platform',
-  github: 'https://github.com/',
-  demo: 'https://dribbble.com/shots/20991747-Brodsport-Sport-Streaming-Platform'
+  title: 'Dignity Medical Taining',
+  github: 'https://github.com/kkk1998sss',
+  demo: 'https://www.dignitymedicaltraining.com/'
 },
 {
   id: 2,
   image: IMG2,
-  title: 'Subzero - Finance Landing Page',
-  github: 'https://github.com/',
-  demo: 'https://dribbble.com/shots/20989236-Subzero-Finance-Landing-Page'
+  title: 'Firrki',
+  github: 'https://github.com/kkk1998sss',
+  demo: 'https://firrki-three.vercel.app/'
 },
 {
   id: 3,
   image: IMG3,
-  title: 'Brainwave - AI Art Generator',
-  github: 'https://github.com/',
-  demo: 'https://dribbble.com/shots/20987686-Brainwave-AI-Art-Generator '
+  title: 'Social Media App',
+  github: 'https://github.com/kkk1998sss',
+  demo: 'https://social-media-app-theta-seven.vercel.app/'
 },
 {
   id: 4,
   image: IMG4,
-  title: 'Logo design Letter F brand identity',
-  github: 'https://github.com/',
-  demo: 'https://dribbble.com/shots/20989001-Logo-design-Letter-F-brand-identity'
+  title: 'Om Logistics Ltd.',
+  github: 'https://omapi.omlogistics.co.in/user',
+  demo: 'https://omapi.omlogistics.co.in/user'
 },
 {
   id: 5,
