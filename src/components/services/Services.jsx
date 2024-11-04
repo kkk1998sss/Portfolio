@@ -13,35 +13,35 @@ const Services = () => {
           <div className="service__head">
             <h3>UI/UX Design</h3>
           </div>
-          <ul className='service__list'>
+          <ul className='service__list' >
             <li>
               <BsCheckAll className='service_list-icon'/>
-              <p>Has  vast knowledge on Ui and styling deigns </p>
+              <p> User-Centered Design: Focus on user needs for intuitive navigation and usability. </p>
             </li>
             <li>
               <BsCheckAll className='service_list-icon'/>
-              <p>Has  vast knowledge on Ui and styling deigns </p>
+              <p>Consistency: Maintain consistent visual elements for a cohesive, seamless user experience.</p>
             </li>
             <li>
               <BsCheckAll className='service_list-icon'/>
-              <p>Has  vast knowledge on Ui and styling deigns </p>
+              <p>Responsive Layout: Ensure adaptability across devices for optimal accessibility and readability.</p>
             </li>
             <li>
               <BsCheckAll className='service_list-icon'/>
-              <p>Has  vast knowledge on Ui and styling deigns </p>
+              <p>Clear Visual Hierarchy: Guide user attention with prioritized content and layout structure.</p>
             </li>
             <li>
               <BsCheckAll className='service_list-icon'/>
-              <p>Has  vast knowledge on Ui and styling deigns </p>
+              <p>Feedback Mechanisms: Use visual cues to inform users about their actions' outcomes.</p>
             </li>
             <li>
               <BsCheckAll className='service_list-icon'/>
-              <p>Has  vast knowledge on Ui and styling deigns </p>
+              <p>Accessibility Compliance: Design with inclusivity in mind for users with diverse needs.</p>
             </li>
-            <li>
+            {/* <li>
               <BsCheckAll className='service_list-icon'/>
               <p>Has  vast knowledge on Ui and styling deigns </p>
-            </li>
+            </li> */}
           </ul>
         </article>
         {/* END OF UI/UX */}
@@ -52,36 +52,33 @@ const Services = () => {
           <ul className='service__list'>
             <li>
               <BsCheckAll className='service_list-icon'/>
-              <p>Has  vast knowledge on Ui and styling deigns </p>
+              <p>Responsive Design: Create websites that adapt smoothly across all device screens.</p>
             </li>
             <li>
               <BsCheckAll className='service_list-icon'/>
-              <p>Has  vast knowledge on Ui and styling deigns </p>
+              <p>SEO Optimization: Implement techniques to improve website visibility on search engines.</p>
             </li>
             <li>
               <BsCheckAll className='service_list-icon'/>
-              <p>Has  vast knowledge on Ui and styling deigns </p>
+              <p>Cross-Browser Compatibility: Ensure functionality and appearance consistency across all major browsers.</p>
             </li>
             <li>
               <BsCheckAll className='service_list-icon'/>
-              <p>Has  vast knowledge on Ui and styling deigns </p>
+              <p>Efficient Load Times: Optimize code and assets for faster page loading speeds.</p>
             </li>
             <li>
               <BsCheckAll className='service_list-icon'/>
-              <p>Has  vast knowledge on Ui and styling deigns </p>
+              <p>Security Practices: Protect user data and prevent vulnerabilities with secure coding.</p>
             </li>
             <li>
               <BsCheckAll className='service_list-icon'/>
-              <p>Has  vast knowledge on Ui and styling deigns </p>
+              <p>User-Friendly Navigation: Design intuitive layouts for easy access to website content.</p>
             </li>
-            <li>
-              <BsCheckAll className='service_list-icon'/>
-              <p>Has  vast knowledge on Ui and styling deigns </p>
-            </li>
+            
           </ul>
         </article>
         {/* END OF Web Development */}
-        <article className="service">
+        {/* <article className="service">
           <div className="service__head">
             <h3>Content Creation</h3>
           </div>
@@ -115,7 +112,7 @@ const Services = () => {
               <p>Has  vast knowledge on Ui and styling deigns </p>
             </li>
           </ul>
-        </article>
+        </article> */}
         {/* End Of Content Creation */}
       </div>
     </section>

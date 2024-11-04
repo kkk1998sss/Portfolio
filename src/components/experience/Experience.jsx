@@ -16,26 +16,33 @@ const Experience = () => {
             <article className="experience__details">
             <BsCheck2Circle className="experience__details-icon"/>
             <div>
-              <h4>HTML</h4>
-            <small className='text-light'>Experienced</small>
-            </div>
-            </article>
-          
-            <article className="experience__details">
-            <BsCheck2Circle className="experience__details-icon"/>
-            <div>
-            <h4>CSS</h4>
-            <small className='text-light'>Intermediate</small>
-            </div>
-            </article>
-          
-            <article className="experience__details">
-            <BsCheck2Circle className="experience__details-icon"/>
-            <div>
             <h4>JavaScript</h4>
             <small className='text-light'>Experienced</small>
             </div>
             </article>
+            <article className="experience__details">
+            <BsCheck2Circle className="experience__details-icon"/>
+            <div>
+            <h4>TypeScript</h4>
+            <small className='text-light'>Experienced</small>
+            </div>
+            </article>
+            <article className="experience__details">
+            <BsCheck2Circle className="experience__details-icon"/>
+            <div>
+              <h4>HTML/CSS</h4>
+            <small className='text-light'>Experienced</small>
+            </div>
+            </article>
+          
+            <article className="experience__details">
+            <BsCheck2Circle className="experience__details-icon"/>
+            <div>
+            <h4>Tailwind</h4>
+            <small className='text-light'>Intermediate</small>
+            </div>
+            </article>
+          
           
             <article className="experience__details">
             <BsCheck2Circle className="experience__details-icon"/>
@@ -45,6 +52,21 @@ const Experience = () => {
             </div>
             </article>
 
+
+            <article className="experience__details">
+            <BsCheck2Circle className="experience__details-icon"/>
+            <div>
+            <h4>React</h4>
+            <small className='text-light'>Intermediate</small>
+            </div>
+            </article>
+            <article className="experience__details">
+            <BsCheck2Circle className="experience__details-icon"/>
+            <div>
+            <h4>NextJS</h4>
+            <small className='text-light'>Intermediate</small>
+            </div>
+            </article>
             <article className="experience__details">
             <BsCheck2Circle className="experience__details-icon"/>
             <div>
@@ -57,14 +79,6 @@ const Experience = () => {
             <BsCheck2Circle className="experience__details-icon"/>
             <div>
             <h4>Angular Material</h4>
-            <small className='text-light'>Intermediate</small>
-            </div>
-            </article>
-
-            <article className="experience__details">
-            <BsCheck2Circle className="experience__details-icon"/>
-            <div>
-            <h4>React</h4>
             <small className='text-light'>Intermediate</small>
             </div>
             </article>
@@ -84,7 +98,7 @@ const Experience = () => {
             <article className="experience__details">
             <BsCheck2Circle className="experience__details-icon"/>
             <div>
-            <h4>Oracle SQL</h4>
+            <h4>SQL</h4>
             <small className='text-light'>Intermediate</small>
             </div>
             </article>
@@ -97,13 +111,6 @@ const Experience = () => {
             </div>
             </article>
           
-            <article className="experience__details">
-            <BsCheck2Circle className="experience__details-icon"/>
-            <div>
-            <h4>MongoDB</h4>
-            <small className='text-light'>Experienced</small>
-            </div>
-            </article>
 
             <article className="experience__details">
             <BsCheck2Circle className="experience__details-icon"/>
@@ -113,6 +120,27 @@ const Experience = () => {
             </div>
             </article>
 
+            <article className="experience__details">
+            <BsCheck2Circle className="experience__details-icon"/>
+            <div>
+            <h4>PostgreSQL</h4>
+            <small className='text-light'>Experienced</small>
+            </div>
+            </article>
+            <article className="experience__details">
+            <BsCheck2Circle className="experience__details-icon"/>
+            <div>
+            <h4>MongoDB</h4>
+            <small className='text-light'>Experienced</small>
+            </div>
+            </article>
+            <article className="experience__details">
+            <BsCheck2Circle className="experience__details-icon"/>
+            <div>
+            <h4>Express.JS</h4>
+            <small className='text-light'>Experienced</small>
+            </div>
+            </article>
             
           </div>
         </div>

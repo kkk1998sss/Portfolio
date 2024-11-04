@@ -4,8 +4,8 @@ import IMG1 from '../../assets/diginity.png'
 import IMG2 from '../../assets/firrki.png'
 import IMG3 from '../../assets/Social.png'
 import IMG4 from '../../assets/Om log.png'
-import IMG5 from '../../assets/portfolio5.jpg'
-import IMG6 from '../../assets/portfolio6.jpg'
+import IMG5 from '../../assets/different.png'
+import IMG6 from '../../assets/calculator.png'
 
 // Dynamic data
 
@@ -41,16 +41,16 @@ const data = [
 {
   id: 5,
   image: IMG5,
-  title: 'Nitro - Design Agency Landing Page',
-  github: 'https://github.com/',
-  demo: 'https://dribbble.com/shots/20991482-Nitro-Design-Agency-Landing-Page'
+  title: 'OTP and Different Components',
+  github: 'https://different-components-project.vercel.app/',
+  demo: 'https://different-components-project.vercel.app/'
 },
 {
   id: 6,
   image: IMG6,
-  title: 'Wander Dashboard',
-  github: 'https://github.com/',
-  demo: 'https://dribbble.com/shots/20986158-Wander-Dashboard'
+  title: 'Calculator',
+  github: 'https://react-string-calculator.vercel.app/',
+  demo: 'https://react-string-calculator.vercel.app/'
 },
 ];
 

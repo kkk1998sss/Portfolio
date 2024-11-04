@@ -53,6 +53,9 @@ footer a {
     color: var(--color-bg);
 }
 
+.About{
+    height: 20vh;
+}
 /* =============== Media Queries (Small Devices) =================== */
 
 @media only screen and (max-width: 600px) {
