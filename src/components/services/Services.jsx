@@ -11,109 +11,67 @@ const Services = () => {
       <div className="container services__container">
         <article className="service">
           <div className="service__head">
-            <h3>UI/UX Design</h3>
+            <h3>Frontend Development</h3>
           </div>
-          <ul className='service__list' >
+          <ul className='service__list'>
             <li>
               <BsCheckAll className='service_list-icon'/>
-              <p> User-Centered Design: Focus on user needs for intuitive navigation and usability. </p>
+              <p>Modern UI/UX with React.js and Next.js for scalable applications</p>
             </li>
             <li>
               <BsCheckAll className='service_list-icon'/>
-              <p>Consistency: Maintain consistent visual elements for a cohesive, seamless user experience.</p>
+              <p>Responsive layouts using Tailwind CSS and styled-components</p>
             </li>
             <li>
               <BsCheckAll className='service_list-icon'/>
-              <p>Responsive Layout: Ensure adaptability across devices for optimal accessibility and readability.</p>
+              <p>State management with Redux Toolkit and React Context API</p>
             </li>
             <li>
               <BsCheckAll className='service_list-icon'/>
-              <p>Clear Visual Hierarchy: Guide user attention with prioritized content and layout structure.</p>
+              <p>Performance optimization and code splitting techniques</p>
             </li>
             <li>
               <BsCheckAll className='service_list-icon'/>
-              <p>Feedback Mechanisms: Use visual cues to inform users about their actions' outcomes.</p>
+              <p>Integration of REST APIs and GraphQL endpoints</p>
             </li>
             <li>
               <BsCheckAll className='service_list-icon'/>
-              <p>Accessibility Compliance: Design with inclusivity in mind for users with diverse needs.</p>
+              <p>Automated testing with Jest and React Testing Library</p>
             </li>
-            {/* <li>
-              <BsCheckAll className='service_list-icon'/>
-              <p>Has  vast knowledge on Ui and styling deigns </p>
-            </li> */}
           </ul>
         </article>
-        {/* END OF UI/UX */}
+
         <article className="service">
           <div className="service__head">
-            <h3>Web Development</h3>
+            <h3>Backend Development</h3>
           </div>
           <ul className='service__list'>
             <li>
               <BsCheckAll className='service_list-icon'/>
-              <p>Responsive Design: Create websites that adapt smoothly across all device screens.</p>
+              <p>AWS Lambda functions for serverless architecture</p>
             </li>
             <li>
               <BsCheckAll className='service_list-icon'/>
-              <p>SEO Optimization: Implement techniques to improve website visibility on search engines.</p>
+              <p>S3 bucket management for static and media file storage</p>
             </li>
             <li>
               <BsCheckAll className='service_list-icon'/>
-              <p>Cross-Browser Compatibility: Ensure functionality and appearance consistency across all major browsers.</p>
+              <p>API Gateway integration with Lambda functions</p>
             </li>
             <li>
               <BsCheckAll className='service_list-icon'/>
-              <p>Efficient Load Times: Optimize code and assets for faster page loading speeds.</p>
+              <p>DynamoDB and RDS database implementation</p>
             </li>
             <li>
               <BsCheckAll className='service_list-icon'/>
-              <p>Security Practices: Protect user data and prevent vulnerabilities with secure coding.</p>
+              <p>CloudWatch monitoring and logging solutions</p>
             </li>
             <li>
               <BsCheckAll className='service_list-icon'/>
-              <p>User-Friendly Navigation: Design intuitive layouts for easy access to website content.</p>
+              <p>IAM roles and security best practices</p>
             </li>
-            
           </ul>
         </article>
-        {/* END OF Web Development */}
-        {/* <article className="service">
-          <div className="service__head">
-            <h3>Content Creation</h3>
-          </div>
-          <ul className='service__list'>
-            <li>
-              <BsCheckAll className='service_list-icon'/>
-              <p>Has  vast knowledge on Ui and styling deigns </p>
-            </li>
-            <li>
-              <BsCheckAll className='service_list-icon'/>
-              <p>Has  vast knowledge on Ui and styling deigns </p>
-            </li>
-            <li>
-              <BsCheckAll className='service_list-icon'/>
-              <p>Has  vast knowledge on Ui and styling deigns </p>
-            </li>
-            <li>
-              <BsCheckAll className='service_list-icon'/>
-              <p>Has  vast knowledge on Ui and styling deigns </p>
-            </li>
-            <li>
-              <BsCheckAll className='service_list-icon'/>
-              <p>Has  vast knowledge on Ui and styling deigns </p>
-            </li>
-            <li>
-              <BsCheckAll className='service_list-icon'/>
-              <p>Has  vast knowledge on Ui and styling deigns </p>
-            </li>
-            <li>
-              <BsCheckAll className='service_list-icon'/>
-              <p>Has  vast knowledge on Ui and styling deigns </p>
-            </li>
-          </ul>
-        </article> */}
-        {/* End Of Content Creation */}
       </div>
     </section>
   )
